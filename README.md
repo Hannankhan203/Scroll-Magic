@@ -6,7 +6,7 @@ A sleek, modern, and interactive landing page built with HTML, CSS, and JavaScri
 
 ## 🌐 Live Demo
 
-👉 [View Live](#) (Replace `#` with your deployed link)
+👉 [View Live](https://hannankhan203.github.io/Scroll-Magic/)
 
 ---
 
