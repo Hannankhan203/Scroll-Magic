@@ -6,39 +6,38 @@ A sleek, modern, and interactive landing page built with HTML, CSS, and JavaScri
 
 ## 🌐 Live Demo
 
-👉 [View Live](https://hannankhan203.github.io/Scroll-Magic/)
+👉 [GitHub Live](https://hannankhan203.github.io/Scroll-Magic/)  
+🌍 [Netlify Live](https://scroll-magic-gsap.netlify.app)
 
 ---
 
 ## 📸 Preview
 
-![Landing Page Preview](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Scroll Magic Preview](./Assets/ScrollMagic-GoogleChrome2025-05-2618-33-47-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
 ## 🚀 Features
 
-- 🔄 **Scroll Animations** using GSAP and ScrollTrigger
-- 🌀 **Parallax Background Effects**
-- 🖱️ **Cursor Follower** animation
-- 📱 **Responsive Design** (mobile-friendly)
-- 📊 **Animated Stats Counter**
-- 📩 **Contact Form UI**
+- 🔄 **Scroll Animations** using GSAP and ScrollTrigger  
+- 🌀 **Parallax Background Effects**  
+- 🖱️ **Cursor Follower** animation  
+- 📱 **Responsive Design** (mobile-friendly)  
+- 📊 **Animated Stats Counter**  
+- 📩 **Contact Form UI**  
 - 🎨 **Modern and clean UI**
 
 ---
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- [GSAP](https://greensock.com/gsap/)
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- [GSAP](https://greensock.com/gsap/)  
 - [GSAP ScrollTrigger](https://greensock.com/scrolltrigger/)
-- [Google Fonts (Poppins)](https://fonts.google.com/specimen/Poppins)
 
 ---
-
 
 ## 📁 Folder Structure
 
@@ -46,6 +45,6 @@ A sleek, modern, and interactive landing page built with HTML, CSS, and JavaScri
 Scroll-Magic-GSAP/
 ├── index.html
 ├── CSS/
-│ └── style.css
+│   └── style.css
 ├── JS/
-│ └── script.js
+│   └── script.js
